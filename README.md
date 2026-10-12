@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **KawasawaYukihiko** 🛡️, a high school graduate passionate about cybersecurity 🔐, low-level systems ⚙️, and hardware tinkering 🔧. Currently preparing for CTF competitions 🚩 and diving deeper into Reverse Engineering 🧩 and Pwn 💥.
+I'm **KawasawaYukihi** 🛡️, a high school graduate passionate about cybersecurity 🔐, low-level systems ⚙️, and hardware tinkering 🔧. Currently preparing for CTF competitions 🚩 and diving deeper into Reverse Engineering 🧩 and Pwn 💥.
 
 ---
 
