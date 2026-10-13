@@ -58,5 +58,5 @@ I'm KawasawaYukiho 🛡️, a freshman passionate about cybersecurity 🔐, low-
 
 ### 📫 How to Reach Me
 
-- 🐙 GitHub: [KawasawaYukihiko](https://github.com/KawasawaYukihiko)
+- 🐙 GitHub: [KawasawaYukihiko](https://github.com/KawasawaYukiho)
 - 📧 Email: 2330976026@qq.com
